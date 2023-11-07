@@ -1,5 +1,5 @@
 # Machine-Learning-projects
-This is a repo of ML/AI projects done in Google Colab and Python.
+This is a repo of some ML/AI projects I've done in Google Colab and Python.
 
 ## Project 1: Multi-faceted Analysis and Classification of Spotify Tracks 
 
