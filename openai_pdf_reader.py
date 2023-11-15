@@ -12,7 +12,7 @@ from langchain.vectorstores import Chroma
 
 #import the token
 #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
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "INSERT KEY HERE"
 openai.api_key = os.environ['OPENAI_API_KEY']
 
 #https://pubmed.ncbi.nlm.nih.gov/36940333/
