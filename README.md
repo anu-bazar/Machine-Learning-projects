@@ -4,7 +4,7 @@ In this project, I utilized the "Spotify Tracks Dataset" available on public dom
 
 I used standard machine learning techniques such as data exploration and visualization, followed by statistical methods such as doing a PCA and a correlation heatmap analysis. Afterwards, I created a recommendation system that fetches the most similar track to the user's chosen track. Additionally, I compared classification methods based on audio features provided by the dataset such as Random Forest, Gradient boosting, FNN and MLP. I concluded the analysis by analysing one property - "popularity", in order to find what makes a track popular and what influences this. Lastly, I did a genre-based analysis by finding the most energetic, most danceable genres and genres with the highest valence. 🎛️🎶
 
-For this project, I've used the following libraries: Pandas, Sklearn, Numpy, Tensorflow, Keras, Plotly, Seaborn, Matplotlib.
+> For this project, I've used the following libraries: Pandas, Sklearn, Numpy, Tensorflow, Keras, Plotly, Seaborn, Matplotlib.
 
 I also created a report on the findings of an in depth analysis to accompany the code. The code is available on a Google Colab notebook and a Python script. 
 
