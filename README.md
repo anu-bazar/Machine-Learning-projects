@@ -7,8 +7,8 @@ I used standard machine learning techniques such as data exploration and visuali
 > For this project, I've used the following libraries: Pandas, Sklearn, Numpy, Tensorflow, Keras, Plotly, Seaborn, Matplotlib.
 
 I also created a report on the findings of an in depth analysis to accompany the code. The code is available on a Google Colab notebook and a Python script. 
-
-To view the full project, I'd personally suggest you to please view the Jupyter notebook titled `spotify.ipynb` file for the code with commentary and visualizations for the best experience. 
+> [!IMPORTANT]
+> To view the full project, I'd personally suggest you to please view the Jupyter notebook titled `spotify.ipynb` file for the code with commentary and visualizations for the best experience. 
 
 
 
